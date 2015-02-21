@@ -1,6 +1,6 @@
 # La Parka Subtitles
 
-This repository contains subtitles for documentary called 'La parka (The Reaper)'.
+This repository contains subtitles for 2013 documentary called 'La parka' or 'The Reaper'.
 
 You can get more information about it [here](http://www.imdb.com/title/tt3438472/)
 
