@@ -1,4 +1,4 @@
-# LaParka Subtitles
+# La Parka Subtitles
 
 This repository contains subtitles for documentary called 'La parka (The Reaper)'.
 
