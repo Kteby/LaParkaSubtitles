@@ -1,4 +1,4 @@
-1
+﻿1
 00:01:33,864 --> 00:01:40,454
 The Reaper
 
@@ -111,7 +111,7 @@ People say in this world,
 there is glory and hell.
 
 26
-00:09:58,740 --> 00:10:00,890
+00:09:58,740 --> 00:10:00,912
 For me, that is a lie.
 
 27
@@ -312,95 +312,80 @@ so I asked for a job and they
 say yes, come tomorrow...
 
 72
-00:17:29,444 --> 00:17:29,460
+00:17:29,444 --> 00:17:31,654
 ...and I got the job.
-so I asked for a job and they
-say yes, come tomorrow...
 
 73
-00:17:29,460 --> 00:17:31,654
-...and I got the job.
-
-74
 00:17:31,654 --> 00:17:34,908
 I started here sweeping the corrals,
 
-75
+74
 00:17:36,951 --> 00:17:41,956
 and then I got interested on
 how they killed the bulls.
 
-76
+75
 00:17:42,874 --> 00:17:48,838
 So I asked them if they borrowed
 me the knife and I killed one.
 
-77
+76
 00:17:48,838 --> 00:17:53,426
 Since then I liked to kill bulls.
 
-78
+77
 00:20:26,329 --> 00:20:29,082
 My family thinks that my job is dangerous,
 
-79
+78
 00:20:29,082 --> 00:20:32,085
 that's why they tell me to quick my job.
 
-80
+79
 00:20:32,085 --> 00:20:35,421
 With this job l have been hurt,
 
-81
-00:20:35,421 --> 00:20:35,440
+80
+00:20:35,421 --> 00:20:37,423
 because of what happens there...
-With this job l have been hurt,
+
+81
+00:20:37,423 --> 00:20:40,426
+...they're accidents and it is dangerous,
 
 82
-00:20:35,440 --> 00:20:37,423
-because of what happens there...
-
-83
-00:20:37,423 --> 00:20:37,440
-...they're accidents and it is dangerous,
-because of what happens there...
-
-84
-00:20:37,440 --> 00:20:40,426
-...they're accidents and it is dangerous,
-
-85
 00:20:40,426 --> 00:20:44,030
 that's why my family its
 always taking care of me.
 
-86
+83
 00:26:05,918 --> 00:26:08,879
 I would never kill a human being...
 
-87
+84
 00:26:10,923 --> 00:26:14,552
 ...because it's not an animal,
 
-88
+85
 00:26:16,304 --> 00:26:18,070
 it's not a bull.
 
-89
+86
 00:26:18,723 --> 00:26:22,518
 I mean, the bulls l kill its
 because of the economic need.
 
-90
+87
 00:26:23,394 --> 00:26:27,523
 Yes, because if I do not kill,
 then I and my family don't eat.
 
-91
+88
 00:27:28,709 --> 00:27:33,506
 Efrain, kills every day between
 500 hundreds bulls,
 
-92
+89
 00:27:33,506 --> 00:27:37,385
 6 days a week, since 25 years ago.
+
