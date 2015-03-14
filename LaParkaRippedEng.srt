@@ -26,7 +26,7 @@ starred at me...
 
 7
 00:06:27,380 --> 00:06:30,590
-saying ''what's up? now it's your turn''.
+saying "what's up? now it's your turn".
 
 8
 00:06:32,390 --> 00:06:36,850
@@ -44,7 +44,7 @@ But they most be for some reason.
 11
 00:07:09,340 --> 00:07:13,662
 When I arrived to the slaughterhouse,
-I labeled my boots ''the Pinocchio''...
+I labeled my boots "the Pinocchio"...
 
 12
 00:07:13,680 --> 00:07:16,373
@@ -53,7 +53,7 @@ coworkers and said...
 
 13
 00:07:16,390 --> 00:07:19,334
-...''no, you are going to be the reaper'',
+..."no, you are going to be the reaper",
 
 14
 00:07:19,350 --> 00:07:21,879
