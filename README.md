@@ -8,6 +8,6 @@ You can get the movie [here](https://vimeo.com/ondemand/thereaper)
 
 Hardcoded english subtitles have some mistakes. You can find them in 'LaParkaRippedEng.srt' file.
 
-Translated russian subtitles you can find in 'LaParkaRippedRus.srt' file.
+Also you can find translated russian subtitles in 'LaParkaRippedRus.srt' file.
 
 Feel free to copy subtitles and use them for further translation.
